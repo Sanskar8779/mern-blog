@@ -62,7 +62,7 @@ export default function DashSidebar() {
             //   label={currentUser.isAdmin ? 'Admin' : 'User'}
               label={'User'}
               labelColor='dark'
-            //   as='div'
+              as='div'
             >
               Profile
             </Sidebar.Item>
